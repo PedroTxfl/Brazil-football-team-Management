@@ -1,17 +1,10 @@
 # Brazil-football-team-Management
 Second assignment in my college's object-oriented programming class.
 
-"""
-Faça um algoritmo que utilize o menu abaixo:
 
-MENU
-======
-1- Ler arquivo de jogadores
-2- Escalar time
-3- Realizar Substiuição
-4- Expulsão
-5- Imprimir escalação
-Escolha:
+
+
+Faça um algoritmo que utilize o menu abaixo:
 
 
 Opção 1: Ler de um arquivo texto todos os jogadores
@@ -81,4 +74,4 @@ arquivo texto para leitura (convocados.txt):
 24:Bremer:DEFESA
 25:Pedro:ATACANTE
 26:Gabriel Martinelli:ATACANTE
-"""
+
